@@ -1,0 +1,31 @@
+<svg width="700" height="500" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <ellipse  ry="19" rx="72" cy="335" cx="498" fill="#b2b2b2"/>
+  <ellipse  ry="19" rx="72" cy="335" cx="250" fill="#b2b2b2"/>
+  
+  <ellipse   ry="100" rx="100"  cy="250" cx="250" fill="#ff7f00"/>
+  <ellipse  ry="30" rx="32"  cy="228" cx="297"  fill="#ffffff"/>
+  <ellipse  ry="30" rx="32" cy="228" cx="241" fill="#ffffff"/>
+  <ellipse  ry="6" rx="6"  cy="228" cx="247"  fill="#000000"/>
+  <ellipse  ry="6" rx="6"  cy="228" cx="306" fill="#000000"/>
+  <ellipse  ry="8" rx="8"  cy="250" cx="271"  fill="#000000"/>
+  <ellipse  ry="7" rx="18"  cy="287" cx="252"  fill="#ff0000"/>
+  
+  <ellipse transform="rotate(15 135 286.5)" ry="26.5" rx="82"  cy="286" cx="135"  fill="#ff7f00"/>
+  <path transform="rotate(-73.4431 79.155 270.763)"  d="m55.655,290.76313l23.5,-40l23.5,40l-47,0z" fill="#ffffff"/>
+  <path transform="rotate(-30.7231 182.65 161.353)"  d="m155.15002,184.35314l27.49999,-45.99999l27.49999,45.99999l-54.99999,0z"  fill="#ff7f00"/>
+  <path transform="rotate(-9.43583 249.65 141.353)"  d="m222.15009,164.3531l27.49999,-45.99999l27.5,45.99999l-54.99999,0z" fill="#ff7f00"/>
+  <path transform="rotate(-30.7231 183.34 162.038)"  d="m168.79095,175.17613l14.54872,-26.2771l14.54873,26.2771l-29.09745,0z"  fill="#000000"/>
+  <path transform="rotate(-10.566 249.34 139.038)"  d="m234.79095,152.17613l14.54872,-26.2771l14.54873,26.2771l-29.09745,0z" fill="#000000"/>
+  <ellipse   ry="100" rx="100"  cy="244" cx="497" fill="#ffff00"/>
+  <ellipse  ry="30" rx="32"  cy="229" cx="460"  fill="#ffffff"/>
+  <ellipse  ry="30" rx="32"  cy="227" cx="513"  fill="#ffffff"/>
+  <ellipse  ry="6" rx="6"  cy="231" cx="452"  fill="#000000"/>
+  <ellipse  ry="6" rx="6"  cy="229" cx="514"  fill="#000000"/>
+  <ellipse  ry="8" rx="8"  cy="246" cx="485"  fill="#000000"/>
+  <ellipse  ry="18" rx="7"  cy="287" cx="490"  fill="#ff0000"/>
+  <ellipse transform="rotate(89.1782 487.5 285)"  ry="7" rx="18"  cy="285" cx="487"  fill="#ff0000"/>
+ </g>
+</svg>
