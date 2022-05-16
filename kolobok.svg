@@ -26,6 +26,6 @@
   <ellipse  ry="6" rx="6"  cy="229" cx="514"  fill="#000000"/>
   <ellipse  ry="8" rx="8"  cy="246" cx="485"  fill="#000000"/>
   <ellipse  ry="18" rx="7"  cy="287" cx="490"  fill="#ff0000"/>
-  <ellipse transform="rotate(89.1782 487.5 285)"  ry="7" rx="18"  cy="285" cx="487"  fill="#ff0000"/>
+  
  </g>
 </svg>
